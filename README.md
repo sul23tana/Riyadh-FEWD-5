@@ -11,16 +11,20 @@ Welcome to FEWD 1. This repository contains information and materials specific t
 
 ## Instructional Team
 - **Assad Mehmood** (Lead Instructor)
-  - [Email](mailto:Assad@generalassemb.ly)
+  - [Assad.mehmood@generalassemb.ly](mailto:Assad.mehmood@generalassemb.ly)
   - Time (Online/Offline)
 - **Jaafar** (Facilitator)
   - [jaafar.abdullah.1414@gmail.com](mailto:jaafar.abdullah.1414@gmail.com)
-  - 
-  - 
+  - Time (Online/Offline)
 - **Leana** (Facilitator)
-  - [Email](mailto:Leana@gmail.com)
+  - [Leana.a.q@gmail.com](mailto:Leana.a.q@gmail.com)
+  - Time (Online/Offline)
   - 
+- **Yahya** (Facilitator)
+  - [Ya7yamo1@gmail.com@gmail.com](mailto:Ya7yamo1@gmail.com@gmail.com)
+  - Time (Online/Offline)
   - 
+
   
 
 
