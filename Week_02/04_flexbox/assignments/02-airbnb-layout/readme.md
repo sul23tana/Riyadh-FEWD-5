@@ -25,5 +25,5 @@ Deliver the mockup as close as possible. In addition, code should be well-indent
 2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
 
 ### You Can Do it!!
-![](https://media.giphy.com/media/12XDYvMJNcmLgQ/giphy.gif)
+![](https://media.giphy.com/media/Vccpm1O9gV1g4/giphy.gif)
 
