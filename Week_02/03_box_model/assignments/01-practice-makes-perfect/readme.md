@@ -8,8 +8,8 @@ Your goal is to make each section of this page look like this example:
 
 ![Design Goal](img/target-look.png)
 
-2) Your first task is to use the font, background and text classes to improve the look of this page.
+1) Your first task is to use the font, background and text classes to improve the look of this page.
 
-3) Your second task is to link the images to page using relative links. Also, try and find the buried page and link it to main index page (use a relative link).
+2) Your second task is to link the images to page using relative links. Also, try and find the buried page and link it to main index page (use a relative link).
 
-4) Your third task is to consider the box model and use padding and margin around each section of content to make it look like the example above.
+3) Your third task is to consider the box model and use padding and margin around each section of content to make it look like the example above.
