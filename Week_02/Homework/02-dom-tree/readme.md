@@ -1,4 +1,4 @@
-## # Week 2 - Homework 2 DOM Trees
+## # Week 2 - Homework 2 - DOM Trees
 
 Draw the DOM tree for the PDF example.
 - Turn the Markup in the PDF example to HTML. 
