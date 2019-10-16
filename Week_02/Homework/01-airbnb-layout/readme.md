@@ -1,4 +1,4 @@
-# Airbnb Mockup
+# # Week 2 Homework 1 - Airbnb Mockup
 
 Lots of websites, including Facebook and Airbnb, use a grid layout to display common elements, such as information cards, photos, and other information. The best way to learn how to create these different layouts is to try them ourselves.
 
@@ -19,7 +19,8 @@ Lots of websites, including Facebook and Airbnb, use a grid layout to display co
 Deliver the mockup as close as possible. In addition, code should be well-indented, follow best practices and pass a CSS validator.
 
 ---
-
+## This is what your page will look like
+![Mockup](solution.jpg)
 ## Licensing
 1. All content is licensed under a CC-BY-NC-SA 4.0 license.
 2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
