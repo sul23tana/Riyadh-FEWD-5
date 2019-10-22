@@ -47,6 +47,7 @@ body {
   color: #fff;
   display: block;
   padding: 15px;
+  margin: 1em;
 }
 
 .google-link:hover {
@@ -58,6 +59,7 @@ body {
   color: #fff;
   display: block;
   padding: 15px;
+  margin: 1em;
 }
 
 .apple-link:visited {
@@ -69,6 +71,7 @@ body {
   color: #fff;
   display: block;
   padding: 15px;
+  margin: 2em;
 }
 
 .nytimes-link:active {
