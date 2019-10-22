@@ -31,7 +31,20 @@ div {
   font-family: 'Oswald', sans-serif;
   font-size: 36px;
 }
+.grid-city{
+  justify-content: center;
+  display: grid;
+  grid-template-columns: 30% 30% 30% ;
+  grid-gap: 15px;
+}
+img{
+  max-width: 100%;
+  display: block;
+  height: auto;
+  padding: 20px;
 
+
+}
 /*
   ##################################
   ######## Container Styles ########
