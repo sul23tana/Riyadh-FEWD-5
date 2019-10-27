@@ -10,15 +10,20 @@
 
 header {
   /* 1 property */
+  height: 50px;
 }
 
 header .logo, header nav {
   /* 1 property */
+display: inline-flex;
+list-style: none;
 }
 
 
 .container .aboutrow {
   /* 1 property */
+  display: flex;
+  flex-direction: row;
 }
 
 
@@ -26,12 +31,15 @@ header .logo, header nav {
 
 .feature {
   /* 1 property */
+  width:50%;
+ 
 }
 
 /* cta */
 
 .cta .container {
   /* 1 property */
+  display: inline-flex;
 }
 
 
@@ -39,18 +47,23 @@ header .logo, header nav {
 
 footer {
   /* 1 property */
+  display: flex;
 }
 
 .footer-left {
   /* 3 properties */
-}
+  text-align: left;
+  display: inline-flex;
+  }
 
 .footer-left .footer-col {
   /* 1 property */
+  padding-right: 60px;
 }
 
 .footer-right {
   /* 1 property */
+  text-align: right;
 }
 
 /* ======+++++======++++=====+++=== */
