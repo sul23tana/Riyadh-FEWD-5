@@ -1,4 +1,4 @@
-![GeneralAssemb.ly](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png "GeneralAssemb.ly")
+![GeneralAssemb.ly]("https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png")
 
 #FEWD: Final Project
 
