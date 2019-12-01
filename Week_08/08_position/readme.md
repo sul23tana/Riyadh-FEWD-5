@@ -24,7 +24,7 @@ By the end of this class, you will:
 | 5 min | [Opening](#opening) | Introduction to Responsive Plus and Context |
 | 10 min | [Review](#review) | A Review of Responsive design |
 | 15 min | [CSS Position](#review) | Introduction to Positioning |
-| 20 min | [Codealong](#position property) | CSS Position property |
+| 20 min | [Codealong](#codealong0) | CSS Position property |
 | 15 min | [z-index](#review) | Introduction to third dimesion |
 | 20 min | [Codealong](#codealong1) | z-index |
 | 20 min | [Lab](#lab1) | Independent Practice |
